@@ -1,6 +1,6 @@
 # Qué partes conforman el UX y qué partes el UI
 
-<img src="img/yuotube">
+<img src="img/yuotube.PNG">
 
 ## UX
 *  Opción de buscar cada video y por iniciales.
